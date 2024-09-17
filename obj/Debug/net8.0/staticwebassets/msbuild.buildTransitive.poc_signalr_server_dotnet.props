@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/poc_signalr_server_dotnet.props" />
+</Project>

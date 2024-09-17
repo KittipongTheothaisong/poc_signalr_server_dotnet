@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "32M3TiW1CUUuxF59VlUtegTf8tadyntU11dRHCMuuaQ=",
+  "Source": "poc_signalr_server_dotnet",
+  "BasePath": "_content/poc_signalr_server_dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
