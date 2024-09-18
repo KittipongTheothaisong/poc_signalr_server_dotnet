@@ -12,6 +12,7 @@ public class MessageController(IHubContext<MessageHub> hubContext) : ControllerB
     {
         Console.WriteLine($"Received message: {message.Text}");
         await hubContext.Clients.All.SendAsync("MessageReceived", message.Text);
+
         return Ok();
     }
 
