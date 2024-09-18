@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("poc_signalr_server_dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f14fbb5834a312d14781075919ce5292d71ee3c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a54d4eb522149a2e3be680fbfe563b87683d74")]
 [assembly: System.Reflection.AssemblyProductAttribute("poc_signalr_server_dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("poc_signalr_server_dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
